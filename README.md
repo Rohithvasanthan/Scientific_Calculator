@@ -51,4 +51,4 @@ calculator-app/
 
 ## Author
 
-Rohith Vasanthan
+Rohith Vasanthan E
